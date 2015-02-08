@@ -1,6 +1,6 @@
 package com.rjd.hellormi.client;
 
-import com.rjd.hellormi.HelloService;
+import com.rjd.hellormi.shared.HelloService;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;

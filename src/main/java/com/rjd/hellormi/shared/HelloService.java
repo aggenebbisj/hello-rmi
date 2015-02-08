@@ -1,4 +1,4 @@
-package com.rjd.hellormi;
+package com.rjd.hellormi.shared;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

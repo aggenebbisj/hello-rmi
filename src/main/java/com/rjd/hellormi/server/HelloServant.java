@@ -1,6 +1,6 @@
 package com.rjd.hellormi.server;
 
-import com.rjd.hellormi.HelloService;
+import com.rjd.hellormi.shared.HelloService;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
